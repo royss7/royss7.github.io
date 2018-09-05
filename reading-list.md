@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-##Books I Read
-####粗缯大布裹生涯，腹有诗书气自华
+## Books I Read
 
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，**常读常新**
 
@@ -19,3 +18,6 @@ layout: default
     
 
  source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+
+
+<u>粗缯大布裹生涯，腹有诗书气自华</u>
