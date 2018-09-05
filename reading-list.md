@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Books I Read
----
+
 
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，**常读常新**
 2. **[Google软件测试之道](https://book.douban.com/subject/25742200/)** 2018.08 记住了一句话，测试是开发的事情，请不要把它推给测试人员
@@ -15,8 +15,7 @@ layout: default
 [back](./)
 
 ---
-
- links: [豆瓣读书](https://book.douban.com/)
+links: [豆瓣读书](https://book.douban.com/)
 
 
 <u>粗缯大布裹生涯，腹有诗书气自华</u>
