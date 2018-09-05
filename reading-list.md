@@ -1,12 +1,10 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Reading List I Read
+subtitle: 粗缯大布裹生涯，腹有诗书气自华
 layout: "page"
 icon: fa-book
 order: 3
 ---
-
-粗缯大布裹生涯，腹有诗书气自华
 
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，<u>常读常新</u>
 
