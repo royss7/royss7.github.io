@@ -1,8 +1,0 @@
-[submodule ".blogs"]
-	path = .blogs
-	url = https://github.com/royss7/royss7.github.io
-	branch = blogs
-[submodule ".gh_pages"]
-	path = .gh_pages
-	url = https://github.com/royss7/jekyll-theme-prologue
-	branch = master
