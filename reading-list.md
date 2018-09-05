@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Books I Read
+* * *
 
 
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，**常读常新**
@@ -14,7 +15,6 @@ layout: default
 
 [back](./)
 
----
 links: [豆瓣读书](https://book.douban.com/)
 
 
