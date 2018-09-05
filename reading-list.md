@@ -1,1 +1,0 @@
-.blogs/reading-list.md

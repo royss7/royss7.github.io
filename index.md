@@ -1,1 +1,0 @@
-.blogs/index.md
