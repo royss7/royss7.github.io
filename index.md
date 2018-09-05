@@ -2,9 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Reaing List
 
-[Link to another page](./another-page.html)
 [Reading List](./reading-list.html)
 
 There should be whitespace between paragraphs.
