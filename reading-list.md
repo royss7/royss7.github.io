@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+
 ## Books I Read
+---
 
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，**常读常新**
 2. **[Google软件测试之道](https://book.douban.com/subject/25742200/)** 2018.08 记住了一句话，测试是开发的事情，请不要把它推给测试人员
@@ -11,6 +13,7 @@ layout: default
 6. **[大话设计模式](https://book.douban.com/subject/2334288/)** *程杰* 2018.08 设计模式入门书籍，大概读了一遍，想真正理解设计模式，还需要更多实践
 
 [back](./)
+
 ---
 
  links: [豆瓣读书](https://book.douban.com/)
