@@ -88,8 +88,8 @@ def main():
             nfp.write(line + "\n")
             line = fp.readline().rstrip() #'---'
             nfp.write(line + "\n")
-            line = fp.readline().rstrip() #'last time'
-            last_time = str_to_datetime(line)
+            #line = fp.readline().rstrip() #'last time'
+            #last_time = str_to_datetime(line)
 
             # add new time
             #nfp.write(datetime.datetime.now().strftime("%Y, %m, %d, %H:%M:%S") + "\n")
@@ -115,7 +115,7 @@ def main():
         nfp.write("---\n\n")
         nfp.write('\n'.join(i.brief) + "\n")
         if not i.only_brief:
-            nfp.write("[More ...]({0})\n".format(i.filename))
+            nfp.write("[More ...]({0})\n".format(re.sub(".md$", ".html", i.filename)))
         nfp.write("\n")
     nfp.close()
 

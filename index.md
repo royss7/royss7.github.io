@@ -14,6 +14,7 @@ This books are I'm reading now:
 ---
 
 
+
 行成于思毁于随
 
 ### My First Blog
@@ -24,5 +25,5 @@ i'm ok
 **really ok**
 _but i'll not alway say that to you_
 `echo "yes"`
-[More ...](./_posts/2018-09-06_test-post.md)
+[More ...](./_posts/2018-09-06_test-post.html)
 
