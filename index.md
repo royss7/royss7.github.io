@@ -25,5 +25,5 @@ i'm ok
 **really ok**
 _but i'll not alway say that to you_
 `echo "yes"`
-[More ...](./_posts/2018-09-06_test-post.html)
+[More ...](./2018-09-06_test-post.html)
 
