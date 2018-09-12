@@ -5,7 +5,7 @@ layout: default
 ## Books I Read
 * * *
 
-
+1. **[Effective Python](https://book.douban.com/subject/26709315/)** 2018.09 python一些基本编程注意事项，感觉好像之前看过
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，**常读常新**
 2. **[Google软件测试之道](https://book.douban.com/subject/25742200/)** 2018.08 记住了一句话，测试是开发的事情，请不要把它推给测试人员
 3. **[迈克尔·乔丹与他的时代](https://book.douban.com/subject/25831297/)** *张佳苇 著* 2017 乔神的世界，The best there ever was. The best there ever will be.
