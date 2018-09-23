@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Reading List"
+categories: Books
+tags: Books
+description: the books I read or reading now
 ---
 
 ## Books I Read
