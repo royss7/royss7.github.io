@@ -15,12 +15,13 @@ description: poerfull logger in debug
 4. 记录返回值
 
 _update on Seq 28st, 2018_
+
 Learn how to effective logging:
 - [Effective logging](http://www.kdgregory.com/index.php?page=java.logging)
-  - `Try logging guards if huge object, e.g if (logger.isDebugEnabled) logSomething; //the object is too large, use guard to skip it when not debug,`
-  - `Effective logging is a delicate balance between logging enough data to identify problems, while not being buried by details (or filling your disk drive). The reasons for error and fatal error logging are pretty straightforward: the former should be used when the program has hit an unexpected state, the latter when it's about to shut down. In either case, you should log as much information as you can, in the hope that a post-mortem analysis can find and fix the condition(s) that led to the error.`
-  - `Programs are made interesting by their “if” statements; everything else is just moving bits from one place to another. Not surprisingly, this is also where most bugs occur, so it's a great place to insert logging statements. You should log the variables used by the condition, not the condition's branches. If there's a problem you'll want to know why a particular branch was taken: the cause, not the effect.`这一条之前有见过，条件判断时应该记录条件值。
-  - `Do not log in short loops while (paramItx.hasMoreElements()){logger.debug("parameter \"" + paramName + "\" = " + request.getParameter(paramName)); // it's not need}`
+  - Try logging guards if huge object, e.g if (logger.isDebugEnabled) logSomething; //the object is too large, use guard to skip it when not debug,
+  - Effective logging is a delicate balance between logging enough data to identify problems, while not being buried by details (or filling your disk drive). The reasons for error and fatal error logging are pretty straightforward: the former should be used when the program has hit an unexpected state, the latter when it's about to shut down. In either case, you should log as much information as you can, in the hope that a post-mortem analysis can find and fix the condition(s) that led to the error.
+  - Programs are made interesting by their “if” statements; everything else is just moving bits from one place to another. Not surprisingly, this is also where most bugs occur, so it's a great place to insert logging statements. You should log the variables used by the condition, not the condition's branches. If there's a problem you'll want to know why a particular branch was taken: the cause, not the effect.这一条之前有见过，条件判断时应该记录条件值。
+  - Do not log in short loops `while (paramItx.hasMoreElements()){logger.debug("parameter \"" + paramName + "\" = " + request.getParameter(paramName)); // it's not need}`
   - Don't log exception messages, pass the exception object to the logger, `logger.debug("in method foo()", new Exception("stack trace"));`
 
 - [10 Tips for proper application logging](https://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html)
