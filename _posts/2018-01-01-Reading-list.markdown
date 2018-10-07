@@ -17,7 +17,7 @@ description: the books I read or reading now
 5. **[万万没想到](https://book.douban.com/subject/25986341/)** *万维钢 著* 2018.05-2018.09 理工科的思维是数字的世界，将这个世界的规律用数字表述出来；很多生活的规律和学习的方法都很新颖
 6. **[大话设计模式](https://book.douban.com/subject/2334288/)** *程杰* 2018.08 设计模式入门书籍，大概读了一遍，想真正理解设计模式，还需要更多实践
 
-[back](./)
+[home](./index.html)
 
 links: [豆瓣读书](https://book.douban.com/)
 
