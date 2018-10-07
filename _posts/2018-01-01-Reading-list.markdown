@@ -22,4 +22,4 @@ description: the books I read or reading now
 links: [豆瓣读书](https://book.douban.com/)
 
 
-<u>粗缯大布裹生涯，腹有诗书气自华</u>
+<u>糊涂时读书，清醒时做事，大怒时睡觉，独处时思考</u>
