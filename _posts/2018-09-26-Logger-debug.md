@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: Programmer
-tags: Programmer
+categories: Programming
+tags: Programming
 title: "Logger for debug"
 description: poerfull logger in debug
 ---
