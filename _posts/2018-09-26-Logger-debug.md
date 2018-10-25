@@ -3,7 +3,7 @@ layout: post
 categories: Programming
 tags: Programming
 title: "Logger for debug"
-description: poerfull logger in debug
+description: powerful logger in debug
 ---
 
 今天下午在调试代码的时候发现，出了问题用原来的logger，根本没办法排查具体是什么问题，出现在哪里？

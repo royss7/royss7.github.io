@@ -9,6 +9,7 @@ description: the books I read or reading now
 ## Books I Read
 * * *
 
+1. **[clean code](https://book.douban.com/subject/4199741/)** 2018.10.25 代码简洁之道，现在正是迷茫期，不知道怎么写出好代码，不知道什么是好代码。
 1. **[Effective Python](https://book.douban.com/subject/26709315/)** 2018.09 python一些基本编程注意事项，感觉好像之前看过
 1. **[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)** 2016 Java编程一些经验，**常读常新**
 2. **[Google软件测试之道](https://book.douban.com/subject/25742200/)** 2018.08 记住了一句话，测试是开发的事情，请不要把它推给测试人员
