@@ -43,6 +43,7 @@ description: Collection
   ```
 
   3. interface `java.util.List extends java.util.Collection`, List is ordered, can be access by integer index, elements can be duplicated, *as consider, will only rare man need unique list(which elements should be unique just as set)*. methods
+
   ``` java
   replaceAll(); // since 1.8, lambda support, replace all value by apply function on original value
   sort(); // since 1.8, lambda support, it will convert to array by toArray(), then sort the Object Array, at last replace elements will the sorted object
