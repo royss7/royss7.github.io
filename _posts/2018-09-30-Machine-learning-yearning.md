@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: ML
-tags: ML, Pragramming
+tags: ML Programming
 title: "Machine Learning Yearning by Andrew Ng"
 description: 百度首席科学家 吴恩达 博士关于机器学习的文章
 ---
