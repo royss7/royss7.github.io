@@ -1,3 +1,11 @@
+---
+layout: post
+categories: Programming
+tags: Programming
+title: "Book of Google Testing"
+description: Testing is responsibility of every programmer
+---
+
 1. p2 序 
 ---
 开发人员发现，为了测试充分，她们不得不针对每一行功能代码，写两道三行的单元测试代码，而且测试代码和功能代码一样都需要维护，且有着相同的出错概率。而且大家也意识到，仅做单元测试是不够的，仍然需要集成测试/系统测试/用户界面等方面的测试。当真正开始做测试的时候，会发现测试工作量边的非常大（且需要多值是的学习），并要求再很短时间内完成测试。

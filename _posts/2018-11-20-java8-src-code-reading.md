@@ -1,3 +1,11 @@
+---
+layout: post
+categories: Programming
+tags: Programming
+title: "Java 8 source code reading"
+description: Collection
+---
+
 ### java 8 source code
 
 ## ref to [java8 src code reading](https://www.cnblogs.com/joemsu/p/7667509.html)
