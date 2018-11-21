@@ -6,9 +6,7 @@ title: "Java 8 source code reading"
 description: Collection
 ---
 
-### java 8 source code
-
-## ref to [java8 src code reading](https://www.cnblogs.com/joemsu/p/7667509.html)
+*ref to [java8 src code reading](https://www.cnblogs.com/joemsu/p/7667509.html)*
 
 - collection
   1. top interface `java.lang.Iterable` has 3 methods 
@@ -17,6 +15,7 @@ description: Collection
   forEach(); // since 1.8;
   spliterator(); // since 1.8, use for stream()
   ```
+
   2. interface `java.util.Collection extends java.lang.Iterable` methods
   ``` java
   size();
@@ -42,6 +41,7 @@ description: Collection
   stream(); // since 1.8
   parallelStream(); // since 1.8
   ```
+
   3. interface `java.util.List extends java.util.Collection`, List is ordered, can be access by integer index, elements can be duplicated, *as consider, will only rare man need unique list(which elements should be unique just as set)*. methods
   ``` java
   replaceAll(); // since 1.8, lambda support, replace all value by apply function on original value
@@ -57,15 +57,20 @@ description: Collection
   subList(fromIndex, toIndex);
   @Override spliterator();
   ```
+
   4. abstract class `java.util.AbstractCollection implements Collection` implements some methods such as `isEmpty() = size() == 0`.
+
   5. abstract class `java.util.AbstractList extends java.util.AbstractCollection implements java.util.List`. which implement immutable list interface(e.g get(i), but set(i, e) is not), so To implement an unmodifiable list, the programmer needs only to extend this class and provide implementations for the {@link #get(int)} and {@link List#size() size()} methods [[java.util.AbstractList]]. iterator's design, almost all loop operation depends on iterator.
+
   6. final class ArrayList
   ```
   public class ArrayList<E> extends AbstractList<E>
         implements List<E>, RandomAccess, Cloneable, java.io.Serializable 
   ``` 
   AbstractList has already implements List, why ArrayList implements again? ref [here](https://stackoverflow.com/questions/3854748/why-do-many-collection-classes-in-java-extend-the-abstract-class-and-implement-t)
+
   7. `java.util.Spliterator` is parallel iterator since java 8. [ref](https://blog.csdn.net/lh513828570/article/details/56673804)
+
   8. top interface Map `java.util.Map`, methods
   ``` java
   size();
