@@ -3,7 +3,7 @@ layout: post
 categories: Programming
 tags: Programming
 title: "The Art Of Clean Code"
-description: Collection
+description: How to write clean code
 ---
 
 # The Art Of Readable Code
