@@ -8,7 +8,7 @@ description: the books I read or reading now
 
 ## Books I Read
 * * *
-
+1. **[The Art of Clean Code](https://book.douban.com/subject/10797189/)** 2018.12.31-2019.01.03 有比较多的详细例子，说的还是很清楚的
 1. **[智能时代](https://book.douban.com/subject/26838557/)** *吴军 著* 2017.11.11-2018.11.15 买了一直没看。当时代来临时，只有拥抱这种变化，成为那2%参与的人，否则只能被淘汰。这一次的时代需要多久才能消化呢（或者说摩尔时代和智能时代一起需要多久）？
 1. **[clean code](https://book.douban.com/subject/4199741/)** 2018.10.25-2018.10.31 代码简洁之道，现在正是迷茫期，不知道怎么写出好代码，不知道什么是好代码。
 1. **[Effective Python](https://book.douban.com/subject/26709315/)** 2018.09 python一些基本编程注意事项，感觉好像之前看过
