@@ -203,6 +203,36 @@ description: Collection
   26. final class `java.util.PriorityQueue extends java.util.AbstractQueue implements Serializable`, it's a heap.
   27. final class `java.util.HashSet extends java.util.AbstractSet implements Set, Cloneable, Serializable`
   28. final class `java.util.LinkedHashSet extends HashSet, implements Set, Cloneable, Serializable`
+- java.lang
+  1. class `java.lang.Object`, default toString:
+  ``` java
+    public String toString() {
+        return getClass().getName() + "@" + Integer.toHexString(hashCode()); // it's not object address but it hashCode to hex
+    }
+  ```
+  and default hashCode is native function, From javadocs, hashCode is typically implemented "by converting the internal address of the object into an integer". This internal address is not available via java sdk and will have to be implemented as a native method.[link](https://stackoverflow.com/a/10579701).
+  2. final class `java.lang.String implements java.io.Serializable, Comparable, CharSequence`, [difference between new String and assign from a string literal](https://javaranch.com/journal/200409/ScjpTipLine-StringsLiterally.html)
+  3. final class Integer `java.lang.Integer extend Number implements Comparable`, parseInt return primitive type `int`, but valueOf return `Integer`;
+  4. final class `java.lang.Boolean extends java.io.Serializable, Comparable`, has 2 static instances: TRUE and FALSE, and 2 hashCode: 1231, 1237.
+  5. final class `java.lang.Character extends java.io.Serializable, Comparable`, Character and Boolean have cached some values(true & false, char < 128>)
+  6. interface `java.lang.Appendable`, which is interface of StringBuilder and StringBuffer. 
+  **Appendables are not necessarily safe for multi threaded access.  Thread safety is the responsibility of classes that extend and implement this interface.**
+  7. interface `java.lang.CharSequence` is a readable sequence of char, read-only access to many different kinds of char sequences.
+  methods
+  ``` java
+  length();
+  subSequence();
+  charAt();
+  chars(); // since 1.8, Stream support
+  codePoints(); // since 1.8, stream support
+  ```
+  8. abstract class `java.lang.AbstractStringBuilder implements Appendable, CharSequence`, it seems like a list of char. New capacity will be 2 * old capacity + 2 when current buffer is full.
+  9. final class `java.lang.StringBuilder extends AbstractStringBuilder implements java.io.Serializable, CharSequence`, it's not guarantee of synchronization, it's preferred to StringBuffer, because it's faster under most implementations.
+  10. final class `java.lang.StringBuffer extends AbstractStringBuilder implements java.io.Serializable, CharSequence`,
+- java.util.concurrent
+  1. interface `java.util.concurrent.Future`, asynchronous computation.
+  2. abstract class `java.util.concurrent.ForkJoinTask implements Future, Serializable`
+
 
 
 
