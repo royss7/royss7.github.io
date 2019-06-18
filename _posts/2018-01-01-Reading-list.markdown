@@ -10,6 +10,7 @@ description: the books I read or reading now
 * * *
 |index|book name|author|start reading|end reading|learned|
 |-|-|-|-|-|-|
+|13|**[硅谷之谜](https://book.douban.com/subject/26665230/)**|*吴军 著*|2019.06.15|2019.06.18|看到自己与硅谷工程师的差距，以及为什么会产生这样的差距，拒绝平庸|
 |12|**[The Little Manual of API Design](https://people.mpi-inf.mpg.de/~jblanche/api-design.pdf)** |*Jasmin Blanchette*|2019.03.14|2019.03.14|怎么样设计API|
 |11|**[Java并发编程的艺术](https://book.douban.com/subject/26591326/)**|*方腾飞 / 魏鹏 / 程晓明 等*|2019.01.07|-|-|
 |10|**[The Art of Clean Code](https://book.douban.com/subject/10797189/)**||2018.12.31|2019.01.03|有比较多的详细例子，说的还是很清楚的|
