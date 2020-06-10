@@ -10,6 +10,8 @@ description: the books I read or reading now
 * * * 
 |index|book name|author|start reading|end reading|learned|
 |-|-|-|-|-|-|
+|21|**[108个训练让你成为手机摄影达人](https://book.douban.com/subject/27204938/)**|*陈丹丹 著*|2020.05.10|2020.06.10|一些关于手机拍照的基础知识|
+|20|**[大学之路(上)](https://book.douban.com/subject/27199584/)**|*吴军 著*|2020.04.05|2020.05.15|了解美国一流大学|
 |19|**[码农翻身](https://book.douban.com/subject/30231515/)**|*刘欣 著*|2019.12.26|2020.01.04|故事性的语言描述了计算机的一些原理，特别Java部分，解决了很多疑惑|
 |18|**[程序员的数学(三)](https://book.douban.com/subject/26740548/)**|*结城浩 著*|2019.07.10|2019.08.01|线性代数|
 |17|**[程序员的数学(一)](https://book.douban.com/subject/19949020/)**|*结城浩 著*|2019.07.10|2019.08.01|数学和程序的连接，数字的魅力，除法代表了什么，排列组合的计算机哲学|
