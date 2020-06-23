@@ -10,6 +10,8 @@ description: the books I read or reading now
 * * * 
 |index|book name|author|start reading|end reading|learned|
 |-|-|-|-|-|-|
+|21|**[简约至上](https://book.douban.com/subject/5394309/)**|*Giles Colborne 著*|2020.06.15|2020.06.23|UI设计的一些经验|
+|20|**[大学之路(下)](https://book.douban.com/subject/27199584/)**|*吴军 著*|2020.05.25|2020.06.23|自己的大学之路是否合格？有很多欠缺的，看看一流的人才都在什么样的环境中学习的|
 |21|**[108个训练让你成为手机摄影达人](https://book.douban.com/subject/27204938/)**|*陈丹丹 著*|2020.05.10|2020.06.10|一些关于手机拍照的基础知识|
 |20|**[大学之路(上)](https://book.douban.com/subject/27199584/)**|*吴军 著*|2020.04.05|2020.05.15|了解美国一流大学|
 |19|**[码农翻身](https://book.douban.com/subject/30231515/)**|*刘欣 著*|2019.12.26|2020.01.04|故事性的语言描述了计算机的一些原理，特别Java部分，解决了很多疑惑|
