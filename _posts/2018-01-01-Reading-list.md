@@ -8,7 +8,7 @@ description: the books I read or reading now
 
 ## Books I Read
 * * * 
-|index|book name|author|start reading|end reading|learned|
+|index|book name|author|start|end|Comments|
 |-|-|-|-|-|-|
 |21|**[简约至上](https://book.douban.com/subject/5394309/)**|*Giles Colborne 著*|2020.06.15|2020.06.23|UI设计的一些经验|
 |20|**[大学之路(下)](https://book.douban.com/subject/27199584/)**|*吴军 著*|2020.05.25|2020.06.23|自己的大学之路是否合格？有很多欠缺的，看看一流的人才都在什么样的环境中学习的|
@@ -25,7 +25,7 @@ description: the books I read or reading now
 |11|**[Java并发编程的艺术](https://book.douban.com/subject/26591326/)**|*方腾飞,魏鹏 ,程晓明 等*|2019.01.07|-|-|
 |10|**[The Art of Clean Code](https://book.douban.com/subject/10797189/)**||2018.12.31|2019.01.03|有比较多的详细例子，说的还是很清楚的|
 |9|**[智能时代](https://book.douban.com/subject/26838557/)**|*吴军 著*|2017.11.11|2018.11.15|买了一直没看。当时代来临时，只有拥抱这种变化，成为那2%参与的人，否则只能被淘汰。这一次的时代需要多久才能消化呢（或者说摩尔时代和智能时代一起需要多久）？|
-|8|**[Clean vb 1 de](https://book.douban.com/subject/4199741/)**|| 2018.10.25|2018.10.31|代码简洁之道，现在正是迷茫期，不知道怎么写出好代码，不知道什么是好代码。|
+|8|**[Clean code](https://book.douban.com/subject/4199741/)**|| 2018.10.25|2018.10.31|代码简洁之道，现在正是迷茫期，不知道怎么写出好代码，不知道什么是好代码。|
 |7|**[Effective Python](https://book.douban.com/subject/26709315/)**||2018.09|| python一些基本编程注意事项，感觉好像之前看过|
 |6|**[Effective java 中文版（第2版)](https://book.douban.com/subject/3360807/)**||2016||Java编程一些经验，**常读常新**|
 |5|**[Google软件测试之道](https://book.douban.com/subject/25742200/)**||2018.08|2018.09|记住了一句话，测试是开发的事情，请不要把它推给测试人员|
