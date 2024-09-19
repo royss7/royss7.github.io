@@ -9,7 +9,7 @@ description: the books I read or reading now
 ## Books I Read
 * * * 
 |index|book name|author|start|end|Comments|
-|-|-|-|-|-|-|
+|---|----|----|---|-|-|
 |25|**[笑得出来的养育](https://book.douban.com/subject/36899777/)**|*李一诺*|2024.07.18|2024.09.19|感触良多的一本书，生孩子到底市为了什么，怎么才算对孩子好。如果连快乐都没有了，追求那么多真的有意义吗？|
 |24|**[码农翻身2](https://book.douban.com/subject/36807496/)**|*刘欣*|2024.08.30|-|-|
 |23|**[只管去做](https://book.douban.com/subject/35449351/)**|*邹小强*|2024.03.10|2024.03.16|在飞机上看完的一本书，还是很有感触的，比如五官体验，比如目标制定|
@@ -37,11 +37,12 @@ description: the books I read or reading now
 |3|**[快学Scala](https://book.douban.com/subject/27093751/)**|*Cay S. Horstmann*|2018.09 ||Scala入门书籍，比较简洁，基本包含了Scala基础|
 |2|**[万万没想到](https://book.douban.com/subject/25986341/)**|*万维钢*|2018.05|2018.09|理工科的思维是数字的世界，将这个世界的规律用数字表述出来；很多生活的规律和学习的方法都很新颖|
 |1|**[大话设计模式](https://book.douban.com/subject/2334288/)**|*程杰*|2018.08||设计模式入门书籍，大概读了一遍，想真正理解设计模式，还需要更多实践|
-|-|-|-|-|-|-|
 
 
+----
 [豆瓣读书](https://book.douban.com/)
 
 
+---
 <u>糊涂时读书，清醒时做事，大怒时睡觉，独处时思考</u>
 oo 
