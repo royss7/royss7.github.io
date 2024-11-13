@@ -10,6 +10,7 @@ description: the books I read or reading now
 * * * 
 |index|book name|author|start|end|Comments|
 |---|----|----|---|-|-|
+|26|**[半小时漫画计算机](https://book.douban.com/subject/35619441/)**|*刘欣 / 刘奕君 绘*|2024.11.07|2024.11.09|生动的解释了数字证书|
 |25|**[笑得出来的养育](https://book.douban.com/subject/36899777/)**|*李一诺*|2024.07.18|2024.09.19|感触良多的一本书，生孩子到底市为了什么，怎么才算对孩子好。如果连快乐都没有了，追求那么多真的有意义吗？|
 |24|**[码农翻身2](https://book.douban.com/subject/36807496/)**|*刘欣*|2024.08.30|-|-|
 |23|**[只管去做](https://book.douban.com/subject/35449351/)**|*邹小强*|2024.03.10|2024.03.16|在飞机上看完的一本书，还是很有感触的，比如五官体验，比如目标制定|
